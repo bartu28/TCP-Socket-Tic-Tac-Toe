@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|c:\\codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_step2\\client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34153371-4C19-4E2B-99DD-72816A6CF56B}|client\\client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\Form1.cs",
+              "RelativeDocumentMoniker": "client\\Form1.cs",
+              "ToolTip": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\Form1.cs",
+              "RelativeToolTip": "client\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowGcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:39:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\Program.cs",
+              "RelativeDocumentMoniker": "client\\Program.cs",
+              "ToolTip": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\Program.cs",
+              "RelativeToolTip": "client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:39:59.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Codes\\cs408\\cs408finalxoxproj\\bartudogan_dogan_bartu_Step2\\Client\\client\\Form1.cs",
+              "RelativeDocumentMoniker": "client\\Form1.cs",
+              "ToolTip": "C:\\Users\\bartu\\Desktop\\project_cs408\\Client\\client\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\bartu\\Desktop\\project_cs408\\Client\\client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-19T15:39:59.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

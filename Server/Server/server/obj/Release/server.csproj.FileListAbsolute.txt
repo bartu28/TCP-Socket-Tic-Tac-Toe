@@ -1,0 +1,11 @@
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Release\server.exe.config
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Release\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Release\server.pdb
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.csproj.AssemblyReference.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.TicTacToeBoard.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Release\server.pdb

@@ -1,0 +1,73 @@
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Debug\server.exe.config
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Debug\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\bin\Debug\server.pdb
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step1\Server\server\obj\Debug\server.pdb
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\bin\Debug\server.exe.config
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.exe
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.pdb
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\bin\Debug\server.exe
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\bin\Debug\server.pdb
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\bin\Debug\server.exe.config
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.exe
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.pdb
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\bin\Debug\server.exe
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\bin\Debug\server.pdb
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\aksvv\Documents\Visual Studio 2015\Projects\Server_new - Copy\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\bin\Debug\server.exe.config
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\bin\Debug\server.exe
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\bin\Debug\server.pdb
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.exe
+C:\Users\bartu\Desktop\project_cs408\Server_new - Copy\server\obj\Debug\server.pdb
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe.config
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.pdb
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.exe
+C:\Users\bartu\Desktop\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.pdb
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe.config
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.pdb
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.exe
+C:\Users\bartu\Desktop\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.pdb
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe.config
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.exe
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\bin\Debug\server.pdb
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.exe.config
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.TicTacToeBoard.resources
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.Properties.Resources.resources
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.exe
+C:\Codes\cs408\cs408finalxoxproj\bartudogan_dogan_bartu_Step2\Server_new - Copy\server\obj\Debug\server.pdb
